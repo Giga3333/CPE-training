@@ -8,6 +8,7 @@ int main()
     string s;
     cin >> s;
 
+    //  stupid
     // int count = 0, in_count = 0;
     // for (int i = 0; i < s.size(); i++)
     //{
